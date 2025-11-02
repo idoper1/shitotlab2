@@ -1,4 +1,4 @@
-public class SharedData 
+public class SharedData //idocheck
 {
 	private int [] array;
 	private boolean [] winArray;
