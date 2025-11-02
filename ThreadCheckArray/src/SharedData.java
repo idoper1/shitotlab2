@@ -1,4 +1,4 @@
-public class SharedData //idocheck
+public class SharedData //idocheck ilya check
 {
 	private int [] array;
 	private boolean [] winArray;
